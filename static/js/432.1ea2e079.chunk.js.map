@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/432.1ea2e079.chunk.js","mappings":"0IAIA,UAJmB,WACjB,OAAOA,EAAAA,EAAAA,KAAA,MAAAC,SAAI,eACb,C","sources":["tabs/dummyTable.js"],"sourcesContent":["const DummyTable = () => {\r\n  return <h1>Dummy Table</h1>;\r\n};\r\n\r\nexport default DummyTable;\r\n"],"names":["_jsx","children"],"sourceRoot":""}
